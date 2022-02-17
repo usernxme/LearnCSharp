@@ -9,7 +9,7 @@ class Program
             X = 0,
             Y = 0
         };
-        int semiMajorAxis = 0;
+        int semiMajorAxis = 10;
         int semiMinorAxis = 5;
 
         try
